@@ -1,14 +1,15 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: b01lers
+bio: Purdue University's Premier CTF Team
 
 # twitter summary info
+#Not sure what this does...
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/b01lers-griffen.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -31,11 +32,11 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: github # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: https://twitter.com/b01lers
 instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
