@@ -4,7 +4,7 @@ bio: Purdue University's CTF Team
 
 # twitter summary info
 #Not sure what this does...
-description: A blog about technology and stuff related
+description: 
 
 # if it's an external image, update below for true
 # better with square images
@@ -17,9 +17,11 @@ dark-theme: auto
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+#Leaving blank, no need for it right now
+
+#resume: true
+#resume-external: true
+#resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -35,12 +37,12 @@ disqus:
   categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: https://twitter.com/b01lers
-instagram: myinstagram
-linkedin: mylinkedin
-github: mygithub
-email: myemail@gmail.com
+#facebook: myfacebook
+twitter: b01lers
+#instagram: myinstagram
+#linkedin: mylinkedin
+github: b01lers
+email: ctf@purdue.edu
 
 authors:
   johndoe:
