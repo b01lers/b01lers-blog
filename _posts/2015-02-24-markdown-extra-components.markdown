@@ -11,6 +11,8 @@ tag:
 category: blog
 author: jamesfoster
 description: Markdown summary with different options
+#hides the blog post: These posts can be used as examples
+hidden: true
 ---
 
 ## Summary:

@@ -18,10 +18,12 @@ dark-theme: auto
 # If you want to include your resume, set to true
 # and specify source (external or local).
 #Leaving blank, no need for it right now
+#NOTE: The below lines need to be there so that the "Website" menu item is 
+#displayed on the site. Need to come up with a fix for this. 
 
-#resume: true
-#resume-external: true
-#resume-url: https://google.com/?q=my+resume
+resume: true
+resume-external: true
+resume-url: https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
@@ -39,24 +41,18 @@ disqus:
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
 twitter: b01lers
-#instagram: myinstagram
-#linkedin: mylinkedin
+instagram: b01lers
+linkedin: b01lers
 github: b01lers
 email: ctf@purdue.edu
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
+  Gabriel Samide:
+    name: Gabriel Samide
+    bio: Sophomore in Cybersecurity and Network Engineering, B01lers Webmaster
     external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+    picture: assets/images/b01lers-griffen.png
+    twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal

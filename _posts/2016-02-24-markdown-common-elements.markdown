@@ -8,6 +8,8 @@ tag:
 - markdown
 - elements
 star: true
+#hides the blog post: These posts can be used as examples
+hidden: true
 category: blog
 author: johndoe
 description: Markdown summary with different options
