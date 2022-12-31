@@ -9,7 +9,7 @@ description:
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/b01lers-griffen.png
+picture: /assets/images/b01lers-griffen.png
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -23,7 +23,7 @@ dark-theme: auto
 
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url:
 
 url: https://captainnapkins.github.io/b01lers-blog
 # your url: https://USERNAME.github.io
