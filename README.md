@@ -26,6 +26,7 @@
 - To add your post to the site:
     - Create a new .md file within the repository and then simply commit the changes. 
     - You can do it all within the repository directly on github! 
+    - Any pictures can be added in the ```assets``` directory.
 
 ## Purpose
 
