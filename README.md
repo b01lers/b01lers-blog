@@ -25,7 +25,7 @@
 - Write your post in markdown! 
 - To add your post to the site:
     - Create a new .md file within the repository and then simply commit the changes. 
-    - You can do it all within the repository on Github.com!
+    - You can do it all within the repository directly on github! 
 
 ## Purpose
 
