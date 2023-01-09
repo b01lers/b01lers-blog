@@ -1,67 +1,47 @@
 <p align="center">
-    <h2 align="center">Indigo Minimalist Jekyll Template - <a href="https://sergiokopplin.github.io/indigo/">Demo</a></h2>
+    <h2 align="center">B01lers Blog
 </p>
 
-<p align="center">This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</p>
+<p align="center">This blog was created using Jekyll and a template found <a href=https://github.com/sergiokopplin/indigo>here<a> </p>
 
 ***
 
 <p align="center">
-    <b><a href="README.md#what-has-inside">What has inside</a></b>
+    <b><a href="README.md#how-to-post">How to Post</a></b>
     |
-    <b><a href="README.md#setup">Setup</a></b>
+    <b><a href="README.md#additional-information">Additional Information</a></b>
     |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#how-to">How to</a></b>
+    <b><a href="README.md#credit">Credit</a></b>
 </p>
 
 <p align="center">
-    Light and Dark themes.
+    <img src=assets/images/Website-Screenshot.png />
 </p>
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png" />
-</p>
+## How to Post
 
-## What has inside
+- Create a new markdown file within the ```__posts``` directory
+- Add the requisite header information (see other posts for examples)
+- Write your post in markdown! 
+- To add your post to the site:
+    - Create a new .md file within the repository and then simply commit the changes. 
+    - You can do it all within the repository on Github.com!
 
-- [Jekyll](https://jekyllrb.com/), [Sass](https://sass-lang.com/) ~[RSCSS](https://rscss.io/)~ and [SVG](https://www.w3.org/Graphics/SVG/);
-- Google Speed: [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F);
-- No JS. :sunglasses:
+## Purpose
 
-## Setup
+- This will be a place where b01lers members can showcase their CTF solves by making a blog post
+- All solves will be placed under the ```Blog``` section of the website
+- A post for the event as a whole will be created under the ```CTF``` section, allowing for a general overview of the event
+    - Solves from that CTF will also be archived under that post to make searching for solves for a particular event easier. 
 
-0. :star: to the project. :metal:
-1. Fork the project [Indigo](https://github.com/sergiokopplin/indigo/fork)
-2. Edit `_config.yml` with your data (check <a href="README.md#settings">settings</a> section)
-3. Write some posts :bowtie:
+## Additional Information
 
-If you want to test locally on your machine, do the following steps also:
+ - If you'd like to use the default ```B01lers Team``` author when creating your post you may do so
+    - Otherwise, you can create an ```author``` entry within the ```__config.yml``` file following the current template. 
 
-1. Install [Jekyll](https://jekyllrb.com) and [Bundler](https://bundler.io/).
-2. Clone the forked repo on your machine
-3. Enter the cloned folder via terminal and run `bundle install`
-4. Then run `bundle exec jekyll serve`
-5. Open it in your browser: `http://localhost:4000`
-6. Do you want an admin panel to edit your posts? You can install this plugin [jekyll-admin](https://jekyll.github.io/jekyll-admin/).
+## Credit
 
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: John Doe
-bio: 'A Man who travels the world eating noodles'
-picture: 'assets/images/profile.jpg'
-...
-
-and lot of other options, like width, projects, pages, read-time, tags, related posts, animations, multiple-authors, etc.
-```
-
-## How To?
-
-Check the [FAQ](./FAQ.md) if you have any doubt or problem.
+The template that this blog was based on can be found <a href=https://github.com/sergiokopplin/indigo>here<a>
 
 ---
 ## License
