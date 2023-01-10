@@ -25,7 +25,7 @@ resume: true
 resume-external: true
 resume-url:
 
-url: https://captainnapkins.github.io/b01lers-blog
+url: https://b01lers.github.io
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
