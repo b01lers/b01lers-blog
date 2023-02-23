@@ -60,6 +60,13 @@ authors:
     external-image: false
     picture: assets/images/b01lers-griffen.png
     twitter:
+  
+  Bo-Shiun Yen:
+    name: Bo-Shiun Yen
+    bio: Junior, President
+    external-image: false
+    picture: assets/images/b01lers-griffen.png
+    twitter: 
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
