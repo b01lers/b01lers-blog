@@ -4,6 +4,17 @@
    or page.title == "Tags"
 %}{% assign showHeader = true %}{% endif %}
 
+<!-- Uncomment this to enable google analytics
+     Note that site.analytics-google also need to be set-->
+<!--{% include analytics-google.html %} -->
+<!-- mathjax.js support -->
+<script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<!-- end mathjax support -->
+
+
+
 {% if showHeader == true %}
     <header class="header-home {% if site.animation %}animated{% endif %}">
         {% if site.about %}
