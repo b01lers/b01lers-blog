@@ -6,7 +6,7 @@ tag:
 - CTF
 - b01lers
 star: false
-projects: false
+projects: true
 author: B01lers Team
 description: B01lers Kick Off the Year Strong at DownUnder CTF 2023
 ---
