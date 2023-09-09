@@ -1,5 +1,5 @@
 ---
-title: "DownUnder CTF 2023!"
+title: "DownUnder CTF 2023"
 layout: post
 date: 2023-9-9 10:00
 tag:
