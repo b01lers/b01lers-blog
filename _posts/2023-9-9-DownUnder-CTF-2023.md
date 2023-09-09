@@ -7,7 +7,7 @@ tag:
 - b01lers
 star: false
 projects: false
-author: Brian Gan
+author: B01lers Team
 description: B01lers Kick Off the Year Strong at DownUnder CTF 2023
 ---
 
