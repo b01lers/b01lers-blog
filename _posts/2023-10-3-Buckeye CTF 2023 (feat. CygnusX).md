@@ -1,13 +1,14 @@
 ---
 title: "Buckeye CTF 2023 (feat. CygnusX)"
 layout: post
-date: 2023-10-3 21:35
+date: 2023-10-2 22:50
 tag:
 - CTF
 - b01lers
+star: false
 category: blog
 author: B01lers Team
-description: Buckeye CTF 2023 (feat. CygnusX)
+description: Writeup from buckeye CTF 2023 featuring CygnusX!!
 ---
 # Buckeye CTF 2023 Writeup Feature 
 Here we are showcasing a writeup created by a member of the b01lers CTF team, CygnusX. Enjoy!
