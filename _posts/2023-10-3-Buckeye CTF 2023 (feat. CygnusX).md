@@ -5,8 +5,7 @@ date: 2023-10-3 21:35
 tag:
 - CTF
 - b01lers
-star: false
-projects: false
+category: blog
 author: B01lers Team
 description: Buckeye CTF 2023 (feat. CygnusX)
 ---
